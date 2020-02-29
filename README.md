@@ -1,0 +1,1 @@
+# typescript_skeleton_project
